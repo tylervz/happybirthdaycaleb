@@ -1,0 +1,22 @@
+.happy-birthday-message {
+	font-size: 4em;
+	/*position: fixed;*/
+}
+
+.from {
+	font-size: 2em;
+}
+
+.from-sebulba {
+	font-size: 4em;
+}
+
+.sebulba {
+	width: 100%;
+	z-index: 0;
+}
+
+.scroll-further {
+	height: 50px;
+}
+
